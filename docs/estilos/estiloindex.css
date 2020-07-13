@@ -1,0 +1,251 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.cuerpo{
+    background:indianred;
+    width: 1024px;
+    height: 1080px;
+    margin: auto;
+}
+nav{
+    width: 1024px;
+    height: 50px;
+    background: darkred;
+    box-shadow: 0 -4px 10px 5px red inset;
+}
+.menu1{
+    width: 512px;
+    height: 50px;
+    color: white;
+    float: left;
+}
+.iconos{
+    width: 350px;
+    height: 50px;
+    /*background: green;*/
+    float: left;
+}
+.iconitos{width: 30px;height: 30px;padding-left: 10px;padding-top: 10px;}
+.buscar{
+    width: 162px;
+    height: 50px;
+    /*background: yellow;*/
+    float: left;
+}
+.cajabus{
+    width: 100px;
+    height: 20px;
+    background: black;
+    border: 1px solid white;
+    border-radius: 10px 10px 10px 10px;
+    color:bisque ;
+    margin: 10px 30px;
+}
+header{
+    width: 1024px;
+    height: 100px;
+    /*background: grey;*/
+}
+.banner{
+    width: 512px;
+    height: 100px;
+    /*background: yellow;*/
+    float: left;
+}
+.logo{
+    /*margin-left: 10px;
+    margin-top: 10px;*/
+    width: 512px;
+    height: 100px;
+}
+.menu2{
+    width: 512px;
+    height: 100px;
+    background: #05259E;
+    float: left;
+    box-shadow: 0 0 10px 10px #041762 inset;
+}
+.menu{
+
+    color: white;
+    display: inline-block;
+    padding: 45px 20px;
+    text-decoration: none;
+}
+.menu:hover{
+    background:#C61526 ;
+    color: white;
+    display: inline-block;
+    padding: 45px 20px;
+}
+.imagen{
+    width: 1024px;
+    height: 300px;
+    background: black;
+
+}
+.prin{
+    /*box-shadow: 0 0 50px 10px black;*/
+    /*margin: 15px 20px;*/
+    /*margin-left: 20px;*/
+    /*padding: 10px 10px;*/
+    width: 1024px;
+    height: 300px;
+    /*background:url("fondo1.png") no-repeat;
+    background: url("fondo1.png");*/
+}
+.prin:hover{
+    /*background:url("fondo1.png") no-repeat;*/
+}
+main{
+    width: 980px;
+    height: 380px;
+    /*background: #192531;*/
+    padding-left: 15px;
+    /*margin: auto;*/
+}
+.cuadro{
+    width: 310px;
+    height: 380px;
+    background: darkred;
+    margin-left: 15px;
+    margin-top: 10px;
+    float: left;
+    border-radius: 10px 10px 10px 10px;
+}
+.parte1{
+    width: 280px;
+    height: 60px;
+    background: #CF6570;
+    color: #EEECE1;
+    box-shadow:0 0 5px black;
+    border-radius: 10px 20px 10px 20px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.person {
+    width: 50px;
+    height: 50px;
+    float: left;}
+.subh3 {float: left; padding-top: 5px;padding-left: 10px;}
+.parte2{
+    width: 310px;
+    height: 100px;
+    /*background: green;*/
+    color: #EEECE1;
+    /*border: 2px solid #EEECE1;*/
+    float: left;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.parte3{
+    width: 300px;
+    height: 120px;
+    /*background: red;*/
+    color: #EEECE1;
+    /*border: 2px solid #EEECE1;*/
+    float: left;
+    padding: 5px 5px;
+}
+p{text-align: justify;}
+.parte4{
+    width: 310px;
+    height: 80px;
+    /*background: white;*/
+    color: #EEECE1;
+    /*border: 2px sol #EEECE1;*/
+    float: left;
+    margin-top: auto;
+}
+button{
+    background: #CF6570;
+    color: #EEECE1;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    float: right;
+    border-radius: 10px 10px 10px 10px;
+}
+.cero{
+    width: 1024px;
+    height: 30px;
+}
+footer{
+    width: 1024px;
+    height: 200px;
+    background:#161F28;
+}
+.fo1{
+    width: 150px;
+    height: 200px;
+    /*background:grey;*/
+    float: left;
+    color: #CF6570;
+    /*padding: 10px;*/
+}
+.fo2{
+    width: 180px;
+    height: 180px;
+    /*background:rebeccapurple;*/
+    float: left;
+    color: #CF6570;
+    /*padding: 10px;*/
+}
+.subh2 {float: left; padding-top: 5px;padding-left: 10px;}
+.fo3{
+    width: 350px;
+    height: 200px;
+    /*background:yellow;*/
+    color: #CF6570;
+    float: left;
+}
+.fotitulo{
+    width: 330px;
+    height: 40px;
+    /*background:green;*/
+    padding-top: 5px;
+    float: left;
+}
+.foimagenes{
+    width: 330px;
+    height: 50px;
+    /*background:black;*/
+    float: left;
+    padding: 10px 15px;
+}
+.foticos{
+    width: 75px;
+    height: 50px;
+}
+.fo4{
+    width: 330px;
+    height: 200px;
+    color: #CF6570;
+    float: left;
+}
+address{
+    width: 1024px;
+    height: 30px;
+    background:#2C0206;
+    /*box-shadow: 0 4px 10px 3px #072545 inset;*/
+}
+.ad1{
+    width: 400px;
+    height: 26px;
+    color: #E01D31;
+    float: left;
+    padding-top: 4px;
+    padding-left: 50px;
+}
+.ad2{
+    width: 500px;
+    height: 26px;
+    color: #E01D31;
+    float: right;
+    padding-top: 4px;
+    padding-left: 10px;
+    text-align: right
+}
+h4 {}
